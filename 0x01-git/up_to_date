@@ -3,4 +3,4 @@ git fetch
 cd 0x01-git
 touch up_to_date
 start up_to_date
-
+git pull
